@@ -1,6 +1,8 @@
-## Workshop Instructional Materials
+govindrajput7340@gmail.com
 
-Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), built by Cloud Advocates and their colleagues in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
+EIGWM 
+
+# built by Cloud Advocates and their colleagues in partnership with Microsoft Student Ambassadors. In this repo, you'll find grab-and-go resources to help you host your own workshop.
 
 ✨✨✨✨✨✨ What's a 'grab-and-go' workshop? It's something you can 'check out' of this library and CUSTOMIZE IT to your community's needs, interest, and language. You can deliver these workshops verbatim, or totally rearrange them and their assets to suit your needs! ✨✨✨✨✨✨
 
